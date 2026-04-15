@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat d:/Java_code/yu-ai-code-mother/src/main/java/com/yupi/yuaicodemother/ratelimter/aspect/*.java)",
+      "Bash(find src *)",
+      "Bash(mkdir -p src/main/java/com/jialin/genapp)",
+      "Bash(cp -r src/main/java/com/yupi/yuaicodemother/* src/main/java/com/jialin/genapp/)",
+      "Bash(rm -rf src/main/java/com/yupi)"
+    ]
+  }
+}

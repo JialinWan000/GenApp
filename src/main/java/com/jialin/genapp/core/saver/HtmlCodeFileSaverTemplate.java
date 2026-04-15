@@ -9,7 +9,7 @@ import com.jialin.genapp.model.enums.CodeGenTypeEnum;
 /**
  * HTML代码文件保存器
  *
- * @author yupi
+
  */
 public class HtmlCodeFileSaverTemplate extends CodeFileSaverTemplate<HtmlCodeResult> {
 
