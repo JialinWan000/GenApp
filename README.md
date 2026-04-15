@@ -19,7 +19,6 @@ genapp/                          # Spring Boot 3 单体后端（Java 21）
 │   ├── controller/              # REST + SSE 流式接口
 │   └── service/                 # 业务服务（含 AI 策略工厂）
 genapp-frontend/                 # Vue 3 + Vite + Ant Design Vue 前端
-genapp-microservice/             # Spring Cloud Alibaba + Dubbo 微服务版本
 sql/                             # 数据库初始化脚本
 ```
 
